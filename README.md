@@ -1,5 +1,9 @@
 # Dev Setup
 
-*Instructions on installation of a dev environment for various Operating Systems.*
+##Operating System Specific Setup
+- [OS X](docs/osx_web.md)
 
-- [Web Development Environment for OS X](docs/osx_web.md)
+
+## Editor and Tools Setup
+- [Setup Instructions](docs/web_tools.md)
+

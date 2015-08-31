@@ -38,18 +38,3 @@
 1. `brew install node`
 2. `brew install mono`
 3. `brew install mongodb`
-
-## Visual Studio Code
-
-### Installation
-Install the latest version of Visual Studio Code from its [site](https://code.visualstudio.com/).
-
-
-### Settings
-
-### Snippets
-
-
-## Node Global Installs
-
-## Gulp Setup
