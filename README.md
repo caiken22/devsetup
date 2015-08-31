@@ -2,6 +2,7 @@
 
 ##Operating System Specific Setup
 - [OS X](docs/osx_web.md)
+- [Windows](docs/win_web.md)
 
 
 ## Editor and Tools Setup

@@ -3,10 +3,7 @@
 **Setting up a Dev Environment for Web Code on a Mac**
 
 
-## OS X Core Installs
-
-
-### Terminal
+## Terminal
 
 1. Download and install [iTerm2](http://www.iterm2.com).
 
@@ -17,7 +14,7 @@
 5. Select a Color Scheme from the downloaded location.  I recommend `Solarized Dark High Contrast`.
 
 
-### HomeBrew
+## HomeBrew Package Manager
 
 *HomeBrew is a package manager for OS X that makes installation of several tools much easier.*
 
@@ -27,14 +24,16 @@
    ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
    ```
 
-####Useful Brew Commands
+###Useful Brew Commands
 - `brew install <package>` installs
 - `brew doctor` checks the health of your HomeBrew setup
 - `brew update` upgrades HomeBrew to the latest version
 - `brew upgrade <package>` updates the package to the latest version
 
 
-#### Install Required Packages Using HomeBrew
+### Install Required Packages Using HomeBrew
+1. `brew install git`
 1. `brew install node`
-2. `brew install mono`
-3. `brew install mongodb`
+1. `brew install mono`
+1. `brew install redis`
+1. `brew install mongodb`
